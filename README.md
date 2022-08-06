@@ -15,7 +15,7 @@ My name is Damla, a Digital Nomad. I am also a Front-end Developer & UI Designer
 colours as well as shapes and I get great gratification from pedalling back and forth across the country and abroad in an attempt to explore new
 places and at times re-discover the old ones through a new perspective.
 
-![image](https://user-images.githubusercontent.com/90147636/183242887-7bf4b911-87a8-4566-8c82-eefb664816a1.png)
+
 
 ### Languages and Tools:
 
