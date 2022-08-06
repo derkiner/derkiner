@@ -5,13 +5,13 @@
 
 My name is Damla, a Digital Nomad. I am also a Front-end Developer & UI Designer & Content Writer & Instructor.
 
-- 👀 Authenticity deeply matters to me. That's why I do my best to create unique as well as eye-catching products.
-- 🌱 I’m currently exploring new libraries and methods for self-improvement. My mission is to create the best version of me in terms of programming and being a decent human being. I truly love assisting people from all walks of life whenever I can.
-- 💞️ I’d be pleased to collaborate on any kinds of Front-end & UI design projects
+- 👀  Authenticity deeply matters to me. That's why I do my best to create unique as well as eye-catching products.
+- 🌱  I’m currently exploring new libraries and methods for self-improvement. My mission is to create the best version of me in terms of programming and being a decent human being. I truly love assisting people from all walks of life whenever I can.
 - 🔎  I regularly write on programming. You may read my technical articles on Medium through this link =>  https://medium.com/@Phoenix_Skywalker.
-- 🧑‍🎨 Those are some of my design projects on CodePen => https://codepen.io/Digital_Nomad
-- 📫 You may reach me via my Linkedin account => https://www.linkedin.com/in/damla-erkiner-000b76227/
-- ⚡ Fun facts: I enjoy experimenting with vivid healthy food recipes as a part of my design journey via
+- 🧑‍🎨  Those are some of my design projects on CodePen => https://codepen.io/Digital_Nomad
+- 💞️  I’d be pleased to collaborate on any kinds of Front-end & UI design projects
+- 📫  You may reach me via my Linkedin account => https://www.linkedin.com/in/damla-erkiner-000b76227/
+- ⚡   Fun facts: I enjoy experimenting with vivid healthy food recipes as a part of my design journey via
 colours as well as shapes and I get great gratification from pedalling back and forth across the country and abroad in an attempt to explore new
 places and at times re-discover the old ones through a new perspective.
 
