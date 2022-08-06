@@ -17,6 +17,8 @@ places and at times re-discover the old ones through a new perspective.
 
 Languages and Tools:
 
+![image](https://user-images.githubusercontent.com/90147636/183241812-f87013f5-2539-4d82-8e3c-787c1dc621ab.png)
+
 ![image](https://user-images.githubusercontent.com/90147636/183241789-634c93ee-9b5d-4f2b-8dde-a5304a18007e.png)
 
 
