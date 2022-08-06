@@ -3,7 +3,7 @@
 
 ### Hi there! 👋 
 
-My name is Damla, a Digital Nomad. I am also a Front-end Developer & UI Designer & Content Writer & Instructor.
+My name is Damla, a lifelong learner. I am also a Front-end Developer & UI Designer & Content Writer & Instructor.
 
 - 👀  Authenticity deeply matters to me. That's why I do my best to create unique as well as eye-catching products.
 - 🌱  I’m currently exploring new libraries and methods for self-improvement. My mission is to create the best version of me in terms of programming and being a decent human being. I truly love assisting people from all walks of life whenever I can.
