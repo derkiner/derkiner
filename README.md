@@ -6,7 +6,7 @@
 My name is Damla, a lifelong learner. I am also a Front-end Developer & UI Designer & Content Writer & Instructor.
 
 - 👀  Authenticity matters. That's why I do my best to come up with unique ideas and form eye-catching products.
-- 🌱  I’m currently exploring new libraries and methods for self-improvement. My mission is to constantly upgrade my skills in terms of programming and try to be a better version of myself all the time. On another note, I truly love assisting people from all walks of life whenever I can.
+- 🌱  I’m currently exploring new libraries and methods for self-improvement. My mission is to constantly upgrade my skills in terms of programming and try to be a better version of myself along the way. On another note, I truly love assisting people from all walks of life whenever I can.
 - 🔎  I regularly write on programming. You may read my technical articles on Medium through this link =>  https://medium.com/@Phoenix_Skywalker.
 - 🧑‍🎨  Those are some of my design projects on CodePen => https://codepen.io/Digital_Nomad
 - 💞️  I’d be pleased to collaborate on any kinds of Front-end & UI design projects.
