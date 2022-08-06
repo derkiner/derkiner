@@ -13,6 +13,6 @@ colours as well as shapes and I get great gratification from pedalling back and 
 places and at times re-discover the old ones through a new perspective.
 
 Languages and Tools:
-![image](https://user-images.githubusercontent.com/90147636/183240806-4f6d5640-c404-4df2-9358-28b9727140b3.png)
+<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
 
 
