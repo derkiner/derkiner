@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-My name is Damla. I am a Front-end Developer & UI Designer & Content Writer
+My name is Damla. I am a Front-end Developer & UI Designer & Content Writer & Instructor.
 
-- 👀 Authenticity deeply matters to me. That's why I do my best to create unique as well as eye-catching products/designs.
+- 👀 Authenticity deeply matters to me. That's why I do my best to create unique as well as eye-catching products.
 - 🌱 I’m currently exploring new libraries.
 - 💞️ I’m looking to collaborate on any kind of Front-end & UI design projects
 - 🔎 Find my written content on Medium =>  https://medium.com/@Phoenix_Skywalker. I regularly write on programming.
