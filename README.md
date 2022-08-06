@@ -9,7 +9,7 @@ My name is Damla, a Digital Nomad. I am also a Front-end Developer & UI Designer
 - 🌱 I’m currently exploring new libraries. My mission is to create the best version of me in terms of programming and being a decent human being. I truly love assisting people from all walks of life whenever I can.
 - 💞️ I’d be pleased to collaborate on any kinds of Front-end & UI design projects
 - 🔎 You may see my technical articles on Medium =>  https://medium.com/@Phoenix_Skywalker. I regularly write on programming.
-- 🧑‍🎨 These are some of my design projects on CodePen => https://codepen.io/Digital_Nomad
+- 🧑‍🎨 Those are some of my design projects on CodePen => https://codepen.io/Digital_Nomad
 - 📫 You may reach me via derkiner.yeditepe@gmail.com
 - ⚡ Fun facts: I enjoy experimenting with vivid healthy food recipes as a part of my design journey via
 colours as well as shapes and I get great gratification from pedalling back and forth across the country and abroad in an attempt to explore new
