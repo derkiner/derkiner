@@ -14,10 +14,8 @@ places and at times re-discover the old ones through a new perspective.
 
 Languages and Tools:
 
-![image](https://user-images.githubusercontent.com/90147636/183241124-10da1f38-3bad-449e-a3a3-809ff886e157.png) ![image](https://user-images.githubusercontent.com/90147636/183241154-7530d0e8-951a-44bf-aec2-fa38a08f025d.png) ![image](https://user-images.githubusercontent.com/90147636/183241143-dbe9ed1e-28ed-4948-ab4c-dc738aa1ef70.png)
+![image](https://user-images.githubusercontent.com/90147636/183241124-10da1f38-3bad-449e-a3a3-809ff886e157.png)
 
-
-
-
+![image](https://user-images.githubusercontent.com/90147636/183241189-344ecbc9-b890-4f92-9923-e41241dbf140.png)
 
 
