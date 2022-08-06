@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Damla, a Front-end Developer & UI Designer & Content Writer
+### Hi there 👋 
+
+My name is Damla. I am a Front-end Developer & UI Designer & Content Writer
 
 - 👀 I’m interested in design in general.
 - 🌱 I’m currently exploring new libraries.
