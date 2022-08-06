@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/90147636/183241690-40c8b85a-90c7-4a40-907c-3fe0f8d5f376.png)
 
 
-### Hi there 👋 
+### Hi there! 👋 
 
 My name is Damla, a digital nomad. I am also a Front-end Developer & UI Designer & Content Writer & Instructor.
 
