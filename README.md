@@ -12,3 +12,7 @@ My name is Damla. I am a Front-end Developer & UI Designer & Content Writer & In
 colours as well as shapes and I get great gratification from pedalling back and forth across the country and abroad in an attempt to explore new
 places and at times re-discover the old ones through a new perspective.
 
+Languages and Tools:
+![image](https://user-images.githubusercontent.com/90147636/183240791-81631370-c0f9-4313-bb8e-ee57dcd26f95.png)
+
+
