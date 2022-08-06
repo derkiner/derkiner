@@ -13,6 +13,9 @@ colours as well as shapes and I get great gratification from pedalling back and 
 places and at times re-discover the old ones through a new perspective.
 
 Languages and Tools:
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+<i class="programming lang-javascript"></i>
+<i class="programming lang-typescript"></i>
+
 
 
