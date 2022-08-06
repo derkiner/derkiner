@@ -13,7 +13,7 @@ colours as well as shapes and I get great gratification from pedalling back and 
 places and at times re-discover the old ones through a new perspective.
 
 Languages and Tools:
-![image](https://user-images.githubusercontent.com/90147636/183241057-ee8e5ed8-be0d-42e0-a808-89eca466105b.png)
+[![image](https://user-images.githubusercontent.com/90147636/183241057-ee8e5ed8-be0d-42e0-a808-89eca466105b.png)](https://www.logolynx.com/topic/javascript)
 
 
 
