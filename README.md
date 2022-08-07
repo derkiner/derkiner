@@ -3,7 +3,7 @@
 
 ### Hi there! 👋 
 
-My name is Damla, a lifelong learner. I am also a Front-end Developer & UI Designer & Content Writer & Instructor.
+My name is Damla. I am a Front-end Developer & UI Designer & Content Writer & Instructor. Most importantly, I am a lifelong learner, always a student so to speak.
 
 - 👀  Authenticity matters. That's why I do my best to come up with unique ideas and form eye-catching products.
 - 🌱  I’m currently exploring new libraries and methods for self-improvement. My mission is to constantly upgrade my skills in terms of programming and try to be a better version of myself along the way. On another note, I truly love assisting people from all walks of life whenever I can.
