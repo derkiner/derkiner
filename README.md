@@ -3,7 +3,7 @@
 
 ### Hi there! 👋 
 
-My name is Damla meaning 'Drop of Water' in English. I am a Front-end Developer & UI Designer & Technical Writer. Most importantly, I am a lifelong learner, always a student so to speak.
+My name is Damla meaning 'Drop of Water' in English. I am a bilingual Front-end Developer & UI Designer & Technical Writer. Most importantly, I am a lifelong learner, always a student so to speak.
 
 - 👀  Authenticity matters to me. That's why I do my best to come up with unique ideas and then form eye-catching products.
 - 🌱  I’m currently exploring new libraries and methods for self-improvement in general. My objective is to constantly upgrade my skills in terms of programming and try to be a better version of myself along the way. On another note, I truly love assisting people from all walks of life whenever I can.
