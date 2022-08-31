@@ -3,10 +3,10 @@
 
 ### Hi there! 👋 
 
-My name is Damla meaning 'Drop of Water' in English. I am a bilingual Front-End Developer & UI Designer & Technical Writer. Most importantly, I am a lifelong learner, always a student so to speak.
+My name is Damla. I am a Front-End Developer & UI Designer & Technical Writer. 
 
 - 👀  Authenticity matters to me. That's why I do my best to come up with unique ideas and then form eye-catching products.
-- 🌱  I’m currently exploring new libraries and methods for self-improvement in general. My objective is to constantly upgrade my skills in terms of programming and try to be a better version of myself along the way. On another note, I truly love assisting people from all walks of life whenever I can.
+- 🌱  I’m currently exploring new libraries and methods for self-improvement in general. My objective is to constantly upgrade my skills in terms of programming and try to be a better version of myself along the way. 
 - 🔎  I regularly write on programming. You may read my technical articles on Medium through this link =>  https://medium.com/@Phoenix_Skywalker. Recently, I've also been accepted as a tech content author by FreeCodeCamp and I'm currently in the process of creating tutorials for fellow programmers around the world. This is the link where you can reach my tutorials / articles on FreeCodeCamp => https://www.freecodecamp.org/news/author/damla/
 - 🧑‍🎨  Here are some UI design projects I create in my spare time for fun on CodePen => https://codepen.io/Digital_Nomad
 - 💞️  I’d be pleased to collaborate on any kinds of Front-End & UI Design Projects & Technical Writing.
