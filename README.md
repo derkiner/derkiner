@@ -10,7 +10,7 @@ My name is Damla. I am a Front-End Developer & UI Designer & Technical Writer.
 - 🔎  I regularly write on programming as it's an excellent way to keep learning & being up-to-date. You may read my technical articles on [my Medium account](https://medium.com/@Phoenix_Skywalker). Recently, I've also been accepted as a tech content author by freeCodeCamp and I'm currently in the process of creating tutorials for fellow programmers around the world. The technical tutorials & articles I create on that platform can be found on [my freeCodeCamp blog page](https://www.freecodecamp.org/news/author/damla/).
 - 🧑‍🎨  There are some UI design projects I create in my spare time for fun on [my CodePen account](https://codepen.io/Digital_Nomad).
 - 💞️  I’d be pleased to collaborate on any kinds of Front-End & UI Design Projects & Technical Writing.
-- 📫  You may reach me via [my personal website](https://damla-erkiner.netlify.app/) or [LinkedIn account](https://www.linkedin.com/in/damla-erkiner-000b76227/)
+- 📫  You may reach me via [my personal website](https://damla-erkiner.netlify.app/) or [LinkedIn account](https://www.linkedin.com/in/damla-erkiner-000b76227/).
 - ⚡   Fun facts: I enjoy experimenting with healthy food recipes as a part of my design journey via
 colours as well as shapes and I get great gratification from pedalling back and forth across the country and abroad in an attempt to explore new
 places and at times re-discover the old ones through a new perspective.
