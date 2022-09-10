@@ -15,6 +15,8 @@ My name is Damla. I am a Front-End Developer & UI Designer & Technical Writer.
 colours as well as shapes and I get great gratification from pedalling back and forth across the country and abroad in an attempt to explore new
 places and at times re-discover the old ones through a new perspective.
 
+<hr>
+
 
 📘 List of My Published Blog Articles on Programming
 ###### On freeCodeCamp
@@ -22,6 +24,8 @@ places and at times re-discover the old ones through a new perspective.
 - [How to Override Root Font Size to Create a Better User Experience](https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/)
 
 ###### On Medium
+- [Be The Master of Your Very Own Fake JSON API](https://medium.com/@Phoenix_Skywalker/be-the-master-of-your-very-own-fake-json-api-or-learn-kung-fu-bd0c1fd2b43c)
+- [Many Faces of ‘REDUCE’ method](https://medium.com/codex/javascript-react-diaries-many-faces-of-the-reduce-function-9999824b93da)
 
 
 ### Languages & Tools:
