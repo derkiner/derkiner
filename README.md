@@ -17,7 +17,7 @@ places and at times re-discover the old ones through a new perspective.
 
 <hr>
 
-📘 TECHNICAL WRITING SAMPLES 
+📘 TECHNICAL WRITING 
 ### List of My Published Blog Articles on Programming =>
 ###### On freeCodeCamp
 - [JavaScript Coding Interview Practice – Sample Interview Questions and Solutions](https://www.freecodecamp.org/news/javascript-coding-interview-practice/)
