@@ -17,9 +17,11 @@ places and at times re-discover the old ones through a new perspective.
 
 
 📘 List of My Published Blog Articles on Programming
-## On freeCodeCamp
+###### On freeCodeCamp
 - [JavaScript Coding Interview Practice – Sample Interview Questions and Solutions](https://www.freecodecamp.org/news/javascript-coding-interview-practice/)
 - [How to Override Root Font Size to Create a Better User Experience](https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/)
+<hr>
+###### On Medium
 
 
 ### Languages & Tools:
