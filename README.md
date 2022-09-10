@@ -33,6 +33,7 @@ places and at times re-discover the old ones through a new perspective.
 - [JavaScript Project: Card Slider](https://medium.com/codex/javascript-bitesize-card-slider-ee3ab8b179d8)
 - [A glimpse into Web 3.0 Technologies & Near Protocol](https://medium.com/coinmonks/2nd-life-from-teaching-to-becoming-a-near-certified-software-developer-via-patika-dev-e5e19662f1ee)
 
+<hr>
 
 ### Languages & Tools:
 
