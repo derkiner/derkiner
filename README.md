@@ -25,10 +25,10 @@ places and at times re-discover the old ones through a new perspective.
 
 ###### On Medium
 - [Be The Master of Your Very Own Fake JSON API](https://medium.com/@Phoenix_Skywalker/be-the-master-of-your-very-own-fake-json-api-or-learn-kung-fu-bd0c1fd2b43c)
-- [Many Faces of ‘REDUCE’ method](https://medium.com/codex/javascript-react-diaries-many-faces-of-the-reduce-function-9999824b93da)
-- [Arrays in one sitting!](https://medium.com/codex/javascript-diaries-arrays-in-one-sitting-618740fdb70b)
+- [Many Faces of ‘REDUCE’ Method](https://medium.com/codex/javascript-react-diaries-many-faces-of-the-reduce-function-9999824b93da)
+- [Arrays in One Sitting!](https://medium.com/codex/javascript-diaries-arrays-in-one-sitting-618740fdb70b)
 - [A walkthrough for async & await / promises](https://medium.com/codex/javascript-react-callback-hell-promises-async-await-1a1bfdc8a10c)
-- [A basic ‘React Project’ from scratch](https://medium.com/codex/shall-we-create-a-basic-project-from-scratch-via-react-a49a65ac1767)
+- [A Basic ‘React Project’ from scratch](https://medium.com/codex/shall-we-create-a-basic-project-from-scratch-via-react-a49a65ac1767)
 - [JavaScript Diaries => Hoisting](https://medium.com/codex/javascript-diaries-hoisting-a2bcbfe0671a)
 - [JavaScript Project: Card Slider](https://medium.com/codex/javascript-bitesize-card-slider-ee3ab8b179d8)
 - [A glimpse into Web 3.0 Technologies & Near Protocol](https://medium.com/coinmonks/2nd-life-from-teaching-to-becoming-a-near-certified-software-developer-via-patika-dev-e5e19662f1ee)
