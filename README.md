@@ -1,7 +1,8 @@
 ![image](https://user-images.githubusercontent.com/90147636/183241690-40c8b85a-90c7-4a40-907c-3fe0f8d5f376.png)
 
 
-### Hi there! 👋 
+### Hi there! ![image](https://user-images.githubusercontent.com/90147636/189475995-c62c3d2b-1a0c-442a-b05f-0b0413c2beb8.png)
+👋 
 
 My name is Damla. I am a Front-End Developer & UI Designer & Technical Writer. 
 
