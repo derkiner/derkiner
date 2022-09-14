@@ -18,7 +18,7 @@ places and at times re-discover the old ones through a new perspective.
 <hr>
 
 📘 TECHNICAL WRITING 
-### List of My Published Articles on Programming =>
+### List of My Published Articles on Programming:
 
 ###### On dev.to
 - [Ins & Outs of Two React Hooks: useState and useEffect](https://dev.to/derkiner/ins-outs-of-two-react-hooks-usestate-and-useeffect-43m5)
