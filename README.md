@@ -7,7 +7,7 @@ My name is Damla. I am a Front-End Developer & UI Designer & Technical Writer.
 
 - 👀  Authenticity matters to me. That's why I do my best to come up with unique ideas and then form eye-catching products.
 - 🌱  I’m currently exploring new libraries and methods for self-improvement in general. My objective is to constantly upgrade my skills in terms of programming and try to be a better version of myself along the way. 
-- 🔎  I regularly write about programming on [dev.to](https://dev.to/derkiner),[Medium](https://medium.com/@Phoenix_Skywalker),[freeCodeCamp](https://www.freecodecamp.org/news/author/damla/) as it's an excellent way to keep learning & staying up-to-date.  I'm currently in the process of creating tutorials for fellow programmers around the world. 
+- 🔎  I regularly write about programming on [dev.to](https://dev.to/derkiner), [Medium](https://medium.com/@Phoenix_Skywalker), [freeCodeCamp](https://www.freecodecamp.org/news/author/damla/) as it's an excellent way to keep learning & staying up-to-date.  I'm currently in the process of creating tutorials for fellow programmers around the world. 
 - 🧑‍🎨  There are some UI design projects I create in my spare time for fun on [my CodePen account](https://codepen.io/Digital_Nomad).
 - 💞️  I’d be pleased to collaborate on any kinds of Front-End & UI Design Projects & Technical Writing.
 - 📫  You may reach me via [my personal website](https://damla-erkiner.netlify.app/) or [LinkedIn account](https://www.linkedin.com/in/damla-erkiner-000b76227/).
@@ -19,6 +19,10 @@ places and at times re-discover the old ones through a new perspective.
 
 📘 TECHNICAL WRITING 
 ### List of My Published Articles on Programming =>
+
+###### On dev.to
+- [Ins & Outs of Two React Hooks: useState and useEffect](https://dev.to/derkiner/ins-outs-of-two-react-hooks-usestate-and-useeffect-43m5)
+
 ###### On freeCodeCamp
 - [JavaScript Coding Interview Practice – Sample Interview Questions and Solutions](https://www.freecodecamp.org/news/javascript-coding-interview-practice/)
 - [How to Override Root Font Size to Create a Better User Experience](https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/)
