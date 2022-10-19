@@ -12,7 +12,7 @@ My name is Damla. I am a Front-End Developer & UI Designer & Technical Writer.
 - 💞️  I’d be pleased to collaborate on any kinds of Front-End & UI Design Projects & Technical Writing.
 - 📫  You may reach me via [my personal website](https://damla-erkiner.netlify.app/) or [LinkedIn account](https://www.linkedin.com/in/damla-erkiner-000b76227/).
 - ⚡   Fun facts: I enjoy experimenting with healthy food recipes as a part of my design journey via
-colours as well as shapes and I get great gratification from pedalling back and forth across the country and abroad in an attempt to explore new
+colours & shapes and I absolutely love pedalling back and forth across the country and abroad in an attempt to explore new
 places and at times re-discover the old ones through a new perspective.
 
 <hr>
