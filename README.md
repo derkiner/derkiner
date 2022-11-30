@@ -7,7 +7,7 @@ My name is Damla. I am a Front-End Developer & UI Designer & Technical Writer.
 
 - 👀  Authenticity matters to me. That's why I do my best to come up with unique ideas and then form eye-catching products.
 - 🌱  I’m currently exploring new libraries and methods for self-improvement in general. My objective is to constantly upgrade my skills in programming and try to be a better version of myself along the way. 
-- 🔎  I do my best to write regularly about programming on my [Dev Community](https://dev.to/derkiner) , [freeCodeCamp](https://www.freecodecamp.org/news/author/damla/) and [Medium](https://medium.com/@Phoenix_Skywalker) accounts as it's an excellent way to keep learning & staying up-to-date. In a nutshell, I enjoy creating tutorials & guides for fellow programmers around the world. 
+- 🔎  I do my best to write regularly about programming as it's an excellent way to keep learning & staying up-to-date. In a nutshell, I enjoy creating tutorials & guides for fellow programmers around the world. 
 - 🧑‍🎨  To view some UI design projects I create in my spare time for fun, you may visit my <a href="https://codepen.io/Digital_Nomad"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;account.
 - 💞️  I’d be pleased to collaborate on any kinds of Front-End & UI Design Projects & Technical Writing.
 - ⚡   Fun facts: I enjoy experimenting with healthy food recipes as a part of my design journey via
