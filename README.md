@@ -19,8 +19,6 @@ places and at times re-discover the old ones through a new perspective.
 📘 TECHNICAL WRITING 
 ### List of My Published Articles on Programming:
 
-###### On Dev Community
-- [Ins & Outs of Two React Hooks: useState and useEffect](https://dev.to/derkiner/ins-outs-of-two-react-hooks-usestate-and-useeffect-43m5)
 
 ###### On freeCodeCamp
 - [JavaScript Coding Interview Practice – Sample Interview Questions and Solutions](https://www.freecodecamp.org/news/javascript-coding-interview-practice/)
@@ -35,6 +33,9 @@ places and at times re-discover the old ones through a new perspective.
 - [JavaScript Diaries => Hoisting](https://medium.com/codex/javascript-diaries-hoisting-a2bcbfe0671a)
 - [JavaScript Project: Card Slider](https://medium.com/codex/javascript-bitesize-card-slider-ee3ab8b179d8)
 - [A glimpse into Web 3.0 Technologies & Near Protocol](https://medium.com/coinmonks/2nd-life-from-teaching-to-becoming-a-near-certified-software-developer-via-patika-dev-e5e19662f1ee)
+
+###### On Dev Community
+- [Ins & Outs of Two React Hooks: useState and useEffect](https://dev.to/derkiner/ins-outs-of-two-react-hooks-usestate-and-useeffect-43m5)
 
 <hr>
 
